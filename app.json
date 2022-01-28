@@ -9,7 +9,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/GP_CREATION_CAT",
-    "repository": "https://github.com/PravincyGp/video-stream",
+    "repository": "https://github.com/Pratheesh30/video-stream",
     "success_url": "https://t.me/Gplove_Rp",
     "env": {
         "API_ID": {
